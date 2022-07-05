@@ -1,0 +1,14 @@
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\obj\Debug\netcoreapp3.1\Split.csproj.AssemblyReference.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\obj\Debug\netcoreapp3.1\Split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\obj\Debug\netcoreapp3.1\Split.AssemblyInfoInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\obj\Debug\netcoreapp3.1\Split.AssemblyInfo.cs
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\obj\Debug\netcoreapp3.1\Split.csproj.CoreCompileInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\bin\Debug\netcoreapp3.1\Split.exe
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\bin\Debug\netcoreapp3.1\Split.deps.json
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\bin\Debug\netcoreapp3.1\Split.runtimeconfig.json
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\bin\Debug\netcoreapp3.1\Split.runtimeconfig.dev.json
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\bin\Debug\netcoreapp3.1\Split.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\bin\Debug\netcoreapp3.1\Split.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\obj\Debug\netcoreapp3.1\Split.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\obj\Debug\netcoreapp3.1\Split.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\Split\Split\obj\Debug\netcoreapp3.1\Split.genruntimeconfig.cache
