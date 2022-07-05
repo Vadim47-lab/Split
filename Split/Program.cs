@@ -17,7 +17,7 @@ namespace Split
 
             words = text.Split(separators, StringSplitOptions.RemoveEmptyEntries);
 
-            Console.WriteLine("\n Вывод массива слов, в котором каждое слово с новой строки text = ");
+            Console.WriteLine("\n Вывод массива слов, в котором каждое слово с новой строки words = ");
             foreach (var word in words)
             {
                 Console.WriteLine(" " + word);
